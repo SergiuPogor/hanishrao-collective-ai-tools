@@ -350,6 +350,7 @@ Use these hashtags in search to filter out the tools
 - [Pickmyline](https://www.pickmyline.online/) - Not able to start conversation even after getting matched? Here is a ChatGPT powered pickup line generator for you!! `#free`
 - [Yourmove.ai](https://www.yourmove.ai/) - Making conversations easier. So you can spend less time texting, and more time dating. `#freemium`
 
+- [Dating Roast](https://dating.roastlabai.com/) - AI dating profile roaster. Upload your profile screenshots and get brutally honest AI feedback on what photos, bio, and prompts are hurting your match rate. `#freemium`
 **[⬆️ Back to Top](#table-of-contents)**
 
 
