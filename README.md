@@ -96,6 +96,7 @@ Use these hashtags in search to filter out the tools
 - [Alpha3D](https://www.alpha3d.io/) - Alpha3D is a revolutionary generative AI-powered platform that transforms 2D images into high-quality 3D assets at scale. `#paid`
 - [GET3D-Nvidia](https://nv-tlabs.github.io/GET3D/) - Generative 3D Textured Shapes from Images. `#free`
 - [Heroify](https://www.heroify.lol/) - Generate high-quality 3D graphics for landing pages. `#paid`
+- [Luphra](https://www.luphra.com/) - Prompt-to-matter: AI that turns prompts and sketches into editable 3D and physical products. `#freemium`
 - [Meshy](https://www.meshy.ai) - Create Stunning 3D Game Assets with AI `#free`
 - [OctoEverywhere](https://octoeverywhere.com/) - OctoEverywhere is a 3D printing failure detection assistant that uses computer vision algorithms to detect printing errors such as spaghetti, layer shifts, adhesion issues, and more `#paid`
 - [Omnia](https://www.theomnia.io/) - Create 3D models based on text prompts or uploaded images. `#paid`
