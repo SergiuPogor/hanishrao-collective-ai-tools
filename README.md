@@ -7,13 +7,12 @@ We're thrilled to invite you to this our open-source community dedicated in crea
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/hanishrao/collective-ai-tools)
 [![CodeFactor](https://www.codefactor.io/repository/github/hanishrao/collective-ai-tools/badge)](https://www.codefactor.io/repository/github/hanishrao/collective-ai-tools)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhanishrao%2Fcollective-ai-tools&countColor=%2337d67a&style=flat)
 ![GitHub contributors](https://img.shields.io/github/contributors-anon/hanishrao/collective-ai-tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hanishrao/collective-ai-tools)
 ![GitHub license](https://img.shields.io/github/license/hanishrao/collective-ai-tools)
 ![GitHub issues](https://img.shields.io/github/issues/hanishrao/collective-ai-tools)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/hanishrao/collective-ai-tools)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhanishrao%2Fai-collective-tools.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhanishrao%2Fai-collective-tools?ref=badge_shield&issueType=license)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools?ref=badge_shield&issueType=license)
 
 [![Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=419835&theme=light)](https://www.producthunt.com/posts/ai-collective-tools)
 
