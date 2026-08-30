@@ -2,3 +2,7 @@ allowBuilds:
   core-js: true
   esbuild: true
   msw: true
+
+overrides:
+  tar: ">=7.5.19"
+  shell-quote: ">=1.8.4"
