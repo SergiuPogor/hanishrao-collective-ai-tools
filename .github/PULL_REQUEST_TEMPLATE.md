@@ -8,6 +8,8 @@ We highly recommend using our official submission portal instead of a Pull Reque
 https://collectiveai.tools/submit
 
 Using the portal ensures your tool is immediately categorized in our database, indexed for search, and displayed natively on the frontend. If you submit via PR here, it will take much longer to merge and sync to the live database.
+
+Join the community on Telegram: https://t.me/collectiveaitools
 -->
 
 ## Description
