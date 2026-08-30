@@ -15,6 +15,8 @@ We're thrilled to invite you to this our open-source community dedicated in crea
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Hyraze/collective-ai-tools)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FHyraze%2Fai-collective-tools?ref=badge_shield&issueType=license)
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/collectiveaitools)
+
 [![Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=419835&theme=light)](https://www.producthunt.com/posts/ai-collective-tools)
 
 ## Pricing

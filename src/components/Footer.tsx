@@ -41,6 +41,14 @@ const Footer: React.FC = () => {
             >
               License
             </a>
+            <a
+              href="https://t.me/collectiveaitools"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm text-gray-500 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+            >
+              Telegram
+            </a>
           </div>
         </div>
       </div>
