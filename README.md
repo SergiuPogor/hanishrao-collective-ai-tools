@@ -814,6 +814,7 @@ Use these hashtags in search to filter out the tools
 - [Casetext](https://casetext.com/) - an award-winning legal AI company developing cutting-edge tech for 10+ years. `#paid`
 - [DoNotPay](https://donotpay.com/) - DoNotPay is an online legal service and chatbot. `#paid`
 - [Latch](https://www.latchapp.com/) - Latch helps legal teams reduce the time, effort, and cost spent towards negotiating agreements. `#paid`
+- [SpecterAI](https://specterlaw.ai/) - German-law AI assistant for source-linked legal research, contract review, and drafting. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
