@@ -12,6 +12,12 @@ overrides:
   undici: ">=6.27.0"
   jsdom>undici: "^7.20.0"
   ajv: ">=8.18.0"
+  # ESLint and @eslint/eslintrc are built against ajv v6: they call APIs v8
+  # removed (schemaId/missingRefs/_opts.defaultMeta) and load v6-only files
+  # (lib/refs/json-schema-draft-04.json). The blanket pin above forces v8 on
+  # them and crashes ESLint at startup, so both are carved back to v6.
+  "@eslint/eslintrc>ajv": "^6.14.0"
+  "eslint>ajv": "^6.14.0"
   smol-toml: ">=1.6.1"
   srvx: ">=0.11.13"
   "@tootallnate/once": ">=2.0.1"
