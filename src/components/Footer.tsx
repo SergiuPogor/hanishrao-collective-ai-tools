@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
           </p>
           <div className="mt-2 flex justify-center space-x-6">
             <a
-              href="https://github.com/Hyraze/collective-ai-tools"
+              href="https://github.com/hanishrao/collective-ai-tools"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-gray-500 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
@@ -34,7 +34,7 @@ const Footer: React.FC = () => {
               Website
             </a>
             <a
-              href="https://github.com/Hyraze/collective-ai-tools/blob/main/LICENSE"
+              href="https://github.com/hanishrao/collective-ai-tools/blob/main/LICENSE"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-gray-500 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"

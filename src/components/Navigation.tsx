@@ -256,7 +256,7 @@ const Navigation: React.FC<NavigationProps> = ({ currentPath }) => {
                        {/* Links */}
                       <div className="grid grid-cols-2 gap-2">
                           <a 
-                              href="https://github.com/Hyraze/collective-ai-tools"
+                              href="https://github.com/hanishrao/collective-ai-tools"
                               target="_blank"
                               rel="noopener noreferrer"
                               className="flex items-center justify-center gap-2 p-2 rounded-lg bg-gray-50 dark:bg-gray-800 text-gray-600 dark:text-gray-400 text-xs font-medium hover:bg-gray-100 dark:hover:bg-gray-700"

@@ -3,13 +3,15 @@ Welcome! Thank you for taking the time to contribute to Collective AI Tools.
 
 If you are contributing code (bug fixes, features, UI improvements), please fill out the template below. We review all PRs and appreciate your help!
 
-If you are adding a new AI Tool or MCP Server:
-We highly recommend using our official submission portal instead of a Pull Request:
+ADDING A TOOL? The fastest way is our submission portal:
 https://collectiveai.tools/submit
 
-Using the portal ensures your tool is immediately categorized in our database, indexed for search, and displayed natively on the frontend. If you submit via PR here, it will take much longer to merge and sync to the live database.
+It takes a minute, needs no git, and goes live on the site immediately — no review
+queue, no waiting on a maintainer. Submitted tools also get featured in our Telegram
+channel: https://t.me/collectiveaitools
 
-Join the community on Telegram: https://t.me/collectiveaitools
+You're still welcome to add it here by PR if you'd rather. It just takes longer to
+appear on the site, since it waits on review and then a sync to the live database.
 -->
 
 ## Description
@@ -19,7 +21,7 @@ Join the community on Telegram: https://t.me/collectiveaitools
 - [ ] Bug fix
 - [ ] New feature
 - [ ] Documentation update
-- [ ] Tool Submission (Please consider using https://collectiveai.tools/submit instead for faster indexing)
+- [ ] Tool Submission
 - [ ] Other
 
 ## Checklist
