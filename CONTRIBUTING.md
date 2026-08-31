@@ -4,9 +4,26 @@ First off, thank you for considering contributing! It's people like you that mak
 
 ## How Can I Contribute?
 
-The most common and impactful way to contribute is by adding new AI tools to our list. Our `README.md` file is the single source of truth for all the tools listed on the [collectiveai.tools](https://collectiveai.tools) website.
+The most common and impactful way to contribute is by adding new AI tools to our list.
+
+### Adding a Tool
+
+**The best way to add a tool is [collectiveai.tools/submit](https://collectiveai.tools/submit).**
+
+It takes a minute, needs no git, and your tool goes straight into our database — categorized, indexed for search, and live on the site. No review queue, no waiting on a maintainer.
+
+Submitted tools also get featured in our [Telegram channel](https://t.me/collectiveaitools).
+
+<details>
+<summary>Prefer to open a Pull Request instead?</summary>
+
+That works too — the `README.md` list is open source and we still take PRs for it. Follow the steps below. Just know it's the slower path: your change waits on review, then on a sync to the live database, so it takes a while to show up on the site.
+
+</details>
 
 ### Submitting a Change
+
+This section covers the Pull Request flow, for tool listings and code contributions alike. Our `README.md` file is the source of truth for the tool listings in this repository.
 
 1.  **Fork the repository:** Click the 'Fork' button at the top right of this page. This creates a copy of the project in your GitHub account.
 
@@ -71,7 +88,7 @@ The most common and impactful way to contribute is by adding new AI tools to our
 
 ## Contributing Code
 
-Beyond tool listings, bug fixes, features, and improvements to the actual app (frontend) are very welcome. Check the [issue tracker](https://github.com/Hyraze/collective-ai-tools/issues) for open work, especially anything labeled `good first issue`.
+Beyond tool listings, bug fixes, features, and improvements to the actual app (frontend) are very welcome. Check the [issue tracker](https://github.com/hanishrao/collective-ai-tools/issues) for open work, especially anything labeled `good first issue`.
 
 ### Prerequisites
 
