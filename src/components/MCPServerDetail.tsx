@@ -184,7 +184,7 @@ const ContributorCTA: React.FC<{ serverName: string; githubUrl?: string }> = ({ 
           Star on GitHub
         </Button>
         <Button
-          onClick={() => window.open(`https://github.com/Hyraze/collective-ai-tools/issues/new?title=Feedback for ${serverName}&body=I'd like to share feedback about ${serverName}...`, '_blank')}
+          onClick={() => window.open(`https://github.com/hanishrao/collective-ai-tools/issues/new?title=Feedback for ${serverName}&body=I'd like to share feedback about ${serverName}...`, '_blank')}
           variant="outline"
           className="flex items-center gap-2"
         >
@@ -192,7 +192,7 @@ const ContributorCTA: React.FC<{ serverName: string; githubUrl?: string }> = ({ 
           Share Feedback
         </Button>
         <Button
-          onClick={() => window.open('https://github.com/Hyraze/collective-ai-tools/issues/new?template=add-mcp-server.md', '_blank')}
+          onClick={() => window.open('https://github.com/hanishrao/collective-ai-tools/issues/new?template=add-mcp-server.md', '_blank')}
           variant="outline"
           className="flex items-center gap-2"
         >
@@ -201,7 +201,7 @@ const ContributorCTA: React.FC<{ serverName: string; githubUrl?: string }> = ({ 
         </Button>
       </div>
       <div className="mt-6 text-sm text-gray-500 dark:text-gray-500">
-        <p>💡 <strong>Tip:</strong> Found an issue or want to suggest improvements? <a href={`https://github.com/Hyraze/collective-ai-tools/issues/new?title=Issue with ${serverName}`} className="text-blue-600 hover:text-blue-700 underline">Open an issue</a></p>
+        <p>💡 <strong>Tip:</strong> Found an issue or want to suggest improvements? <a href={`https://github.com/hanishrao/collective-ai-tools/issues/new?title=Issue with ${serverName}`} className="text-blue-600 hover:text-blue-700 underline">Open an issue</a></p>
       </div>
     </div>
   </div>
