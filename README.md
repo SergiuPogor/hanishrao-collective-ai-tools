@@ -1159,6 +1159,7 @@ Use these hashtags in search to filter out the tools
 - [Flow Studio](https://flowstudio.ai/) - Chat characters, robots, and prompt management. `#free`
 - [Gemini Omni AI](https://geminiomni.co/) - Craft cinematic AI videos with Gemini Omni, the unified omni-model — generate, edit, and remix clips in native 4K with built-in audio and Director's Mode. `#freemium`
 - [Google Vids](https://workspace.google.com/products/vids/) - Integrated Workspace creation and scripts. `#paid`
+- [H3 Max Studio](https://minimaxh3-max.org/) - Independent web app for text-to-video and image-to-video generation with MiniMax H3 Max through fal. `#paid`
 - [Hedra](https://hedra.com/) - Multimodal personal AI creation studio. `#free`
 - [Heygen](https://www.heygen.com/) - Create videos from text in minutes with AI-generated avatars and voices. `#freemium`
 - [HeyVid](https://heyvid.ai/) - An all-in-one AI video and image generator. `#freemium`
