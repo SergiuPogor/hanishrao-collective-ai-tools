@@ -211,6 +211,7 @@ Use these hashtags in search to filter out the tools
 - [Bing Chat](https://www.bing.com/chat) - A conversational AI language model powered by Microsoft Bing. `#free`
 - [Bubbling Duck](https://maoya.com/) - Multi-modal platform with contextual memory. `#free`
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them. `#freemium`
+- [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only. `#free`
 - [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way. `#freemium`
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF. `#free`
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation. `#freemium`
