@@ -1010,6 +1010,7 @@ Use these hashtags in search to filter out the tools
 
 ## Real Estate
 
+- [Altyst](https://altyst.ai/) - Turns a commercial property's address, listing link, or offering memorandum into a full editable underwriting model with cash flows, IRR, and DSCR. `#paid` `#finance`
 - [HomeByte](https://homebyte.com/) - Find your dream home with the most advanced home search on the planet. `#free`
 - [IACrea](https://iacrea.com/) - AI-powered Home Staging Solution `#paid`
 - [InteriorAI](https://interiorai.com/) - Interior design ideas using Artificial Intelligence `#paid`
