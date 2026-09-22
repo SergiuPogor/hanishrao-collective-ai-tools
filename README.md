@@ -704,6 +704,7 @@ Use these hashtags in search to filter out the tools
 
 ## Human Resources
 
+- [Allowly Hiring Evidence](https://allowly.ai/solutions/hiring/) - Applies approved employment-screening policies to selected fields, records linked reviews and corrections, and exports signed Hiring Decision Packs. `#freemium`
 - [Baigua Interview](https://baigua.ai/) - Safe technical interview code-writing assistant. `#free`
 - [Cover Letter Copilot](https://coverlettercopilot.ai/) - Your AI-Powered Cover Letter Generator `#freemium`
 - [Deepbrain AI](https://www.deepbrain.io/) - Innovate HR Process with AI Interview. `#paid`
