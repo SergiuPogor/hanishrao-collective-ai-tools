@@ -442,6 +442,7 @@ Use these hashtags in search to filter out the tools
 - [CodiumAI (Qodo)](https://www.qodo.ai/)%20AI%20Tool) - Quality agent platform for organizational standards. `#paid`
 - [Continue](https://continue.dev/) - Open-source AI code assistant that works with any LLM `#free`
 - [Copilot](https://github.com/features/copilot) - AI assistant that speeds up delivery and keeps your code safe `#paid`
+- [Cortex](https://github.com/cortex-docs/cortex) - Generates API documentation, typed SDKs, and MCP servers from API specifications and Markdown. `#free` `#opensource`
 - [CrewAI](https://crewai.com/) - Multi-agent orchestration framework for building teams of AI agents that collaborate on complex tasks. `#freemium` `#opensource`
 - [Cursor.sh](https://cursor.sh) - This tool uses GPT-4 to help you code that increases productivity `#freemium`
 - [dbdiagram.io](https://dbdiagram.io/home) - It's an online AI-Powered database diagram design tool that allows you to visually create and edit database schemas `#free`
