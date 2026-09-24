@@ -498,6 +498,7 @@ Use these hashtags in search to filter out the tools
 - [Together AI](https://together.ai/) - Fast inference platform for open-source models with developer APIs and fine-tuning. `#freemium`
 - [Twinny](https://github.com/twinnydotdev/twinny) - Privacy-first AI extension for local models. `#free`
 - [v0](https://v0.dev/) - AI-powered UI component generator by Vercel. `#free`
+- [Vend](https://extract.paypercall.dev) - Pay-per-call web intel and data-extraction API: IP geolocation, domain WHOIS/DNS/SSL checks, URL health, web search, and page content extraction. Settled in Nano (XNO), no signup or API key needed. `#paid`
 - [Vercel AI SDK](https://sdk.vercel.ai/) - TypeScript toolkit for building AI-powered applications with streaming, agents, and tool calling. `#free` `#opensource`
 - [Warp](https://www.warp.dev/) - Parallel agent operation for fast completion. `#paid`
 - [Windsurf](https://codeium.com/windsurf) - AI-powered IDE with built-in code generation and chat `#freemium`
