@@ -1280,6 +1280,7 @@ Use these hashtags in search to filter out the tools
 - [iFlytek Doc Writer](https://xiezuo.xfyun.cn/) - Specialized document and manuscript reviewer. 114 `#free`
 - [iFlytek Writing](https://xiezuo.xfyun.cn/) - Spark-powered template and polisher. 104 `#free`
 - [Incribo](https://incribo.com/) - Your AI Writing Companion. `#paid`
+- [kdpbook.io](https://kdpbook.io/) - Turns a book described in a chat, or your own manuscript, into Amazon KDP-ready files: interior PDF, full-wrap cover PDF, Kindle EPUB and listing sheet. `#freemium`
 - [Koala Writing](https://koala.ai/) - High-speed official document writing assistant. 128 `#paid`
 - [Kubao Work Assistant](https://kubao.ai/) - 200+ scenarios for enterprise creativity. 137 `#paid`
 - [Light-speed Writing](https://guangsu.ai/) - Article expansion/rewrite for public service. 127 `#free`
