@@ -827,6 +827,7 @@ Use these hashtags in search to filter out the tools
 
 ## Legal
 
+- [Court Rules](https://www.courtrules.app) - Free reference for U.S. federal court rules, local rules, judge standing orders, and court holidays, with a deadline calculator and an MCP server. `#freemium`
 - [Derli Legal Search](https://www.derli.com.cn/) - 500 million legal data points for practitioners. `#paid`
 - [Hai Rui Legal AI](https://www.hairui.ai/) - Document writing and case source expansion. `#paid`
 - [Tongyi Farlaw](https://tongyi.aliyun.com/) - Industry-specific model for professional legal help. `#free`
