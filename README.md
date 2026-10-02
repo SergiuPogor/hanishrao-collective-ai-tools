@@ -461,6 +461,7 @@ Use these hashtags in search to filter out the tools
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google's open-source AI coding agent for the terminal with Gemini models. `#free` `#opensource`
 - [GitHub Copilot Workspace](https://github.com/features/copilot) - AI-powered development environment for entire projects `#paid`
 - [Groq](https://groq.com/) - Ultra-fast LLM inference API with free tier for Llama, Mixtral, and Gemma models. `#freemium`
+- [Heabsy](https://heabsy.com/) - OpenAI- and Anthropic-compatible inference API for open models, with an EEA tier on dedicated GPUs in EEA data centres and zero data retention. `#paid`
 - [HeyCLI](https://heycli.com/) - Natural language execution for Linux terminals. `#paid`
 - [Hocoos](https://hocoos.com/) - AI-driven no-code website construction tool. `#paid`
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with encrypted, append-only records and an MCP server for agent access through scoped, expiring grants. `#free` `#opensource`
