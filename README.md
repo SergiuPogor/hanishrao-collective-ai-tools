@@ -1290,6 +1290,7 @@ Use these hashtags in search to filter out the tools
 - [Huoshan Writing](https://writing.huoshan.com/) - Doubao-based ad-free information search. 97 `#free`
 - [iFlytek Doc Writer](https://xiezuo.xfyun.cn/) - Specialized document and manuscript reviewer. 114 `#free`
 - [iFlytek Writing](https://xiezuo.xfyun.cn/) - Spark-powered template and polisher. 104 `#free`
+- [ImagineYourBook](https://www.imagineyourbook.com/) - Plans and drafts full manuscripts chapter by chapter, with series story bibles and Word/EPUB/Markdown export. `#paid`
 - [Incribo](https://incribo.com/) - Your AI Writing Companion. `#paid`
 - [kdpbook.io](https://kdpbook.io/) - Turns a book described in a chat, or your own manuscript, into Amazon KDP-ready files: interior PDF, full-wrap cover PDF, Kindle EPUB and listing sheet. `#freemium`
 - [Koala Writing](https://koala.ai/) - High-speed official document writing assistant. 128 `#paid`
