@@ -2,6 +2,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 import { usePublicData } from '@/context/PublicDataContext';
 import { Link } from 'react-router-dom';
 import { withUtm } from '@/lib/outbound';
+import { sanitizeUrl } from '@/lib/security';
 import {
   Search,
   Star,
@@ -353,7 +354,7 @@ const SkillsMarketplace: React.FC = () => {
                           )}
                         </button>
                         <a
-                          href={withUtm(skill.repo)}
+                          href={withUtm(sanitizeUrl(skill.repo))}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="flex items-center justify-center gap-1 px-3 py-2 rounded-lg bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-400 text-xs font-medium hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors"

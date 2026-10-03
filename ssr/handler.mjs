@@ -20,7 +20,10 @@ export function createPublicHandler({
     const getJson = async endpoint => {
       // Endpoints are constructed by loadPublicPage, never taken from request URLs.
       // Do not forward cookies, Authorization, Host, or other visitor headers.
-      const response = await fetchImpl(new URL(endpoint, apiOrigin).href, {
+      const url = new URL(endpoint, apiOrigin);
+      if (url.origin !== new URL(apiOrigin).origin)
+        throw Object.assign(new Error('Public API unavailable'), { status: 400 });
+      const response = await fetchImpl(url.href, {
         headers: { Accept: 'application/json' },
         signal: AbortSignal.timeout(8000),
         redirect: 'error',

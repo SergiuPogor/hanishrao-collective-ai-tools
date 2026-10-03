@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { usePublicData } from '@/context/PublicDataContext';
 import { Star, GitBranch, ExternalLink, RefreshCw, Circle } from 'lucide-react';
 import { cn } from '../lib/utils';
+import { sanitizeUrl } from '../lib/security';
 
 interface Repo {
   title: string;
@@ -93,7 +94,7 @@ const TrendingRepos: React.FC = () => {
                 return (
                     <a 
                         key={idx} 
-                        href={repo.link} 
+                        href={sanitizeUrl(repo.link)}
                         target="_blank" 
                         rel="noopener noreferrer"
                         className="group flex flex-col justify-between p-5 rounded-2xl bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700/50 hover:border-blue-300 dark:hover:border-blue-500/50 hover:shadow-xl hover:shadow-blue-500/5 dark:hover:shadow-blue-900/10 transition-all duration-300 transform hover:-translate-y-1"

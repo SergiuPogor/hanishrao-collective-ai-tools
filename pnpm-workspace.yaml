@@ -9,8 +9,9 @@ overrides:
   path-to-regexp: ">=8.4.0"
   minimatch: ">=10.2.3"
   js-yaml: ">=4.3.1"
-  undici: ">=6.27.0"
-  jsdom>undici: "^7.20.0"
+  undici: ">=8.10.2"
+  jsdom>undici: "^7.29.1"
+  fast-uri: "^3.1.7"
   ajv: ">=8.18.0"
   # ESLint and @eslint/eslintrc are built against ajv v6: they call APIs v8
   # removed (schemaId/missingRefs/_opts.defaultMeta) and load v6-only files

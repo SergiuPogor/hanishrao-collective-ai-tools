@@ -97,7 +97,7 @@ export async function loadPublicPage(path, getJson) {
   if (!isPublicPath(path)) return failure('/', 404);
   try {
     if (path.startsWith('/tools/')) {
-      const result = await getJson(`/api/ai-tools/${path.split('/')[2]}`);
+      const result = await getJson(`/api/ai-tools/${encodeURIComponent(path.split('/')[2])}`);
       const tool = result.data;
       if (
         !tool ||
