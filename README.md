@@ -1251,6 +1251,7 @@ Use these hashtags in search to filter out the tools
 - [ScaleReach](https://www.scalereach.ai/) - Turns long YouTube and other videos into 9:16 short clips with AI captions and face-tracking crop. `#paid`
 - [shortshort](https://www.shortshort.io/) - Turns one long talk, podcast or course into up to 20 vertical 9:16 shorts with word-by-word captions. `#freemium`
 - [SkyReels](https://skyreels.ai/) - One-click text-to-animation platform. `#freemium`
+- [Sora2 Hub](https://sora2hub.org/) - AI image and video generation platform for text-to-video, image-to-video and text-to-image in one workspace. `#freemium`
 - [Sora](https://openai.com/sora) - OpenAI's revolutionary text-to-video generation model with high-quality results `#freemium`
 - [Spikes Studio](https://spikes.studio/) - identifies segments for social media short-form. `#free`
 - [Step Video](https://step.ai/) - Multi-theme creation and description optimizer. `#free`
