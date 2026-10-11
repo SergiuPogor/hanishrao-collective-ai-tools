@@ -420,6 +420,7 @@ Use these hashtags in search to filter out the tools
 - [AirOps](https://airops.com/) - Large language model LLM workflows for SEO. `#freemium`
 - [AI Router](https://ai-router.dev) - Hosted OpenAI-compatible API relay with unified multi-model access, personal API keys, and per-key usage visibility. `#freemium`
 - [aiXcoder](https://www.aixcoder.com/) - Chinese deep learning software dev assistant. `#freemium`
+- [Archcore](https://github.com/archcore-ai/archcore) - Git-native context engineering and spec-driven development for AI coding agents. `#free` `#opensource`
 - [AskCodi](https://www.askcodi.com/) - Code generation and refactoring assistant. `#free`
 - [Augment Code](https://augmentcode.com/) - Industry-leading context engine for developers. `#paid`
 - [Better Agent](https://github.com/ofekron/better-agent) - Local workspace for Claude, Codex, and Gemini coding-agent sessions with parallel forks and restart recovery. `#free`
