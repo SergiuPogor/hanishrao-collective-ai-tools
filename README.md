@@ -129,6 +129,7 @@ Use these hashtags in search to filter out the tools
 - [LoginLlama](https://loginllama.app/) - Enhance Security with LoginLlama's Suspicious Login Detection `#freemium`
 - [Lovable](https://lovable.dev/) - Idea to app in seconds,Lovable is your superhuman full stack engineer. `#free`
 - [Luminal](https://getluminal.com/) - Clean, transform and analyze spreadsheets at lightspeed with AI `#freemium`
+- [Massvai](https://massvai.com/) - AI full-stack app builder that turns a prompt into a working Next.js app with database, auth and deployment. `#freemium`
 - [Yingdao AI Power](https://www.yingdao.com/) - Build enterprise AI applications without coding. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
