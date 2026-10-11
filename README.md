@@ -481,6 +481,7 @@ Use these hashtags in search to filter out the tools
 - [Lovable](https://lovable.dev/) - Generating full-stack apps via Supabase/GitHub. `#freemium`
 - [MarsX](https://www.marsx.dev/) - MicroApps and no-code software development. `#freemium`
 - [Markstream](https://markstream.simonhe.me/) - Open-source streaming Markdown renderer for AI chat interfaces, with incomplete-token handling and packages for Vue, React, Svelte, Angular, and Vue 2. `#free` `#opensource`
+- [Masaka for Codex](https://github.com/masakaai/codex-multiple-env) - Local macOS and Linux CLI that keeps each ChatGPT account and workspace in an isolated CODEX_HOME, shows Codex usage windows, and switches future native Codex sessions without copying tokens. `#free` `#opensource`
 - [MCP Use](https://mcp-use.com/) - Fullstack MCP framework to develop MCP Apps for ChatGPT, Claude & MCP Servers. `#free` `#opensource`
 - [ModelRush](https://modelrush.ai/) - API platform for text, image, video, and audio models, with OpenAI-compatible chat access, published pricing, and request-level usage tracking. `#paid`
 - [molt](https://solvyx.xyz/work/molt) - Coding agent that won't say done on a false claim — on-disk verification and receipts for accepts/refusals. `#free` `#opensource`
