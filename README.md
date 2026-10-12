@@ -332,6 +332,7 @@ Use these hashtags in search to filter out the tools
 - [Formula bot](https://formulabot.com/) - Instant formula generation without registration. `#free`
 - [FormX.ai](https://formx.ai/) - Automated data extraction from invoices/contracts. `#free`
 - [GPTExcel](https://gptexcel.uk/) - Effortlessly create and understand formulas in Excel and Google Sheets! `#paid`
+- [looot](https://looot.ai/) - One API key and prepaid balance for about 2,500 data endpoints: work email, phone, company enrichment, Google search, web pages. Add api.looot.ai/mcp as an MCP server in Claude, ChatGPT or Cursor. `#paid` `#mcp`
 - [ParlayAPI MCP](https://github.com/JacobiusMakes/parlay-api-mcp) - Connects AI assistants to sports odds, player props, public event discovery, and account usage; account data tools use each user's own API key and allowances. `#mcp` `#freemium`
 - [Parseur](https://parseur.com/) - Parseur is a powerful data entry software that automates text extraction from emails, PDFs, and other documents, enhancing productivity by eliminating manual data entry. `#freemium`
 - [Rows](https://rows.com/) - Redefined spreadsheet for team data analysis. `#free`
