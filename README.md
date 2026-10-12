@@ -473,6 +473,7 @@ Use these hashtags in search to filter out the tools
 - [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with encrypted, append-only records and an MCP server for agent access through scoped, expiring grants. `#free` `#opensource`
 - [Imgcook](https://www.imgcook.com/) - Taobao design-to-code intelligent tool. `#free`
 - [JamGPT](https://jam.dev/) - Automated error reporting and fixing assistant. `#free`
+- [Jet Browser](https://github.com/masakaai/jet-browser) - Portable WPE WebKit runtime for agents with isolated Docker sessions, native input, DOM/text reads, fresh screenshots, and ordered JSONL, MCP, and JavaScript SDK interfaces. `#free` `#opensource`
 - [Junie](https://www.jetbrains.com/junie/) - JetBrains context-aware IDE assistant. `#paid`
 - [Keploy](https://keploy.io/) - AI-powered automation API and Unit testing, latest UTG pr agent generates unit tests after each pr. `#free`
 - [Keploy](https://www.keploy.io/) - A  developer-centric backend testing tool which makes backend tests with built-in-mocks faster than unit tests, from user traffic, making it easy to use, powerful, and extensible. `#opensource`
