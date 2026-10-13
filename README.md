@@ -172,7 +172,7 @@ Use these hashtags in search to filter out the tools
 ## Avatars
 
 - [iFlytek Virtual Human](https://www.xfyun.cn/services/virtual_human) - Full-stack cloning and customization platform. `#paid`
-- [Muse Me](https://muse-me-avatar-beta.zhangwei798879.chatgpt.site) - Turns one authorized photo into an original anime-style social avatar without requiring an account. `#free`
+- [Muse Studio](https://muse-me-avatar-beta.zhangwei798879.chatgpt.site/create?utm_source=github&utm_campaign=studio_round2&utm_content=collective_ai_tools) - Turns a short text brief into a bold AI poster. Limited free public test; ChatGPT sign-in required; no payment. `#free`
 - [Never AI](https://www.never.tech) - Unlock Your Imagination with Never's Hyper-Realistic AI Images. `#paid`
 - [Qimiao Wen](https://wen.mobvoi.com/) - Interactive digital employee generation platform. `#free`
 - [Staf](https://www.staf.ai/) - Streamline Your Business with Curated AI Solutions `#paid`
