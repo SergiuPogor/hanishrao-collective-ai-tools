@@ -130,6 +130,7 @@ Use these hashtags in search to filter out the tools
 - [Lovable](https://lovable.dev/) - Idea to app in seconds,Lovable is your superhuman full stack engineer. `#free`
 - [Luminal](https://getluminal.com/) - Clean, transform and analyze spreadsheets at lightspeed with AI `#freemium`
 - [Massvai](https://massvai.com/) - AI full-stack app builder that turns a prompt into a working Next.js app with database, auth and deployment. `#freemium`
+- [VibeKit](https://vibekit.bot/) - Mobile-first AI app builder where each app gets its own persistent coding agent that builds it, hosts it on a live domain and keeps improving it, from an iPhone or the web. `#freemium`
 - [Yingdao AI Power](https://www.yingdao.com/) - Build enterprise AI applications without coding. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
